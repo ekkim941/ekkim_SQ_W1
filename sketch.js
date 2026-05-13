@@ -1,3 +1,7 @@
+function preload() {
+  image("download.jpeg");
+}
+
 function setup() {
   createCanvas(400, 400);
 }
