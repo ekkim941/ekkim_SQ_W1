@@ -29,10 +29,10 @@ To play via GitHub Pages, visit the link provided on the submission page.
 
 ## Assets
 
-| File                           | Source                  |
-| ------------------------------ | ----------------------- |
-| `assets/images/controller.png` | Drawn by Karen Cochrane |
+| File                          | Source |
+| ----------------------------- | ------ |
+| `assets/images/download.jpeg` |
 
 ## References
 
-N/A
+Connellan, S. (2026, April 10). “Exit 8” review: The most nightmarish spot-the-difference you’ve ever experienced. Mashable. https://mashable.com/article/exit-8-review
